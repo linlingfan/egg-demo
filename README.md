@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # egg-demo
 
 egg-one by glinlf
@@ -31,3 +32,6 @@ $ npm stop
 
 
 [egg]: https://eggjs.org
+=======
+# egg-demo
+>>>>>>> 10c45e8c7af7eb21cad13c363d4e4bdf69a926aa
